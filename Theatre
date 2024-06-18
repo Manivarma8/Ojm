@@ -1,0 +1,12 @@
+class Theatre{
+
+public static void main(String[] args){
+Theatre raja = new Theatre();
+System.out.println("After booking ticket " + balance);
+}
+int bookTicket(int total){
+int ticket_price = 120;
+int balance = total - ticket_price;
+return balance;
+}
+}
